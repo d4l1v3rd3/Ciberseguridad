@@ -6,7 +6,7 @@ Este repositorio ha sido creado, para la investigación y aprendizaje para toda 
 Cualquier persona tiene el derecho de aprender y debatir sobre estos temas.
 
 # [NoSQL](NoSQL)
-# [TTY INTERACTIVA](TTYTOTALMENTEINTERACTIVA)
+# [TTY INTERACTIVA](https://github.com/D4l1-web/Hacking-Petesting/blob/main/README.md#tty-totalmente-interactiva)
 # [PANDORA](PANDORA VULNERABILIDAD)
 
 ## NoSQL
