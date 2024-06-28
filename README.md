@@ -46,3 +46,7 @@ https://ironhackers.es/tutoriales/como-conseguir-tty-totalmente-interactiva/
 Pandora FMS 742: Critical Code Vulnerabilities Explained
 
 https://www.sonarsource.com/blog/pandora-fms-742-critical-code-vulnerabilities-explained/
+
+# LinPEAS - Linux Privilege Escalation Awesome Script
+
+https://github.com/peass-ng/PEASS-ng/tree/master/linPEAS
