@@ -16,3 +16,8 @@ Cualquier persona tiene el derecho de aprender y debatir sobre estos temas.
 
 - [Pandora 742](https://www.sonarsource.com/blog/pandora-fms-742-critical-code-vulnerabilities-explained/) - Pandora FMS 742: Critical Code Vulnerabilities Explained
 
+# BUG BOUNTY
+
+- [Como ser un buen Bug Bounty Hunter](https://www.hackerone.com/hackerone-community-blog/how-become-successful-bug-bounty-hunter) - Pasos y consejos para meternos al mundo del Bug Bounty
+- [HackerONE](https://www.hackerone.com) - Página famosa de Bug Bounty
+- [BugCrowd](https://www.bugcrowd.com) - Página famosa de Bug Bounty
