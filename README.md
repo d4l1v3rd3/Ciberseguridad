@@ -10,7 +10,7 @@ Cualquier persona tiene el derecho de aprender y debatir sobre estos temas.
 
 - [LinPEAS](https://github.com/peass-ng/PEASS-ng/tree/master/linPEAS) - Linux Privilege Escalation Awesome Script
 - [NoSQL](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/NoSQL%20Injection#authentication-bypass) - Repositorio sobre bypass de autentificación en NoSQL 
-- [Shell-Interactiva]()
+- [Shell-Interactiva](https://github.com/D4l1-web/Ciberseguridad/blob/main/Shell-Interactiva.md) - Nos upgradea la shell o rvshell para mayor disponibilidad.
 
 # VULNERABILIDADES
 
