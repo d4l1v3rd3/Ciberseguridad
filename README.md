@@ -11,6 +11,7 @@ Cualquier persona tiene el derecho de aprender y debatir sobre estos temas.
 - [LinPEAS](https://github.com/peass-ng/PEASS-ng/tree/master/linPEAS) - Linux Privilege Escalation Awesome Script
 - [NoSQL](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/NoSQL%20Injection#authentication-bypass) - Repositorio sobre bypass de autentificación en NoSQL 
 - [Shell-Interactiva](https://github.com/D4l1-web/Ciberseguridad/blob/main/Shell-Interactiva.md) - Nos upgradea la shell o rvshell para mayor disponibilidad.
+- [SecList](https://github.com/danielmiessler/SecLists) - La famosa SecLists 
 
 # VULNERABILIDADES
 
@@ -21,3 +22,8 @@ Cualquier persona tiene el derecho de aprender y debatir sobre estos temas.
 - [Como ser un buen Bug Bounty Hunter](https://www.hackerone.com/hackerone-community-blog/how-become-successful-bug-bounty-hunter) - Pasos y consejos para meternos al mundo del Bug Bounty
 - [HackerONE](https://www.hackerone.com) - Página famosa de Bug Bounty
 - [BugCrowd](https://www.bugcrowd.com) - Página famosa de Bug Bounty
+
+# ANONIMATO
+
+- [I2P](https://geti2p.net/en/) - Proyecto para la Internet Invisible
+  
