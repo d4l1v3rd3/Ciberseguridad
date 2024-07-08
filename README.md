@@ -11,7 +11,9 @@ Cualquier persona tiene el derecho de aprender y debatir sobre estos temas.
 - [LinPEAS](https://github.com/peass-ng/PEASS-ng/tree/master/linPEAS) - Linux Privilege Escalation Awesome Script
 - [NoSQL](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/NoSQL%20Injection#authentication-bypass) - Repositorio sobre bypass de autentificación en NoSQL 
 - [Shell-Interactiva](https://github.com/D4l1-web/Ciberseguridad/blob/main/Shell-Interactiva.md) - Nos upgradea la shell o rvshell para mayor disponibilidad.
-- [SecList](https://github.com/danielmiessler/SecLists) - La famosa SecLists 
+- [SecList](https://github.com/danielmiessler/SecLists) - La famosa SecLists.
+- [Exploit-DataBase](https://www.exploit-db.com) - La famosa base de datos donde se publican todos los exploits.
+- [SecTools](https://sectools.org) - 125 herramientas en red sobre seguridad.
 
 # VULNERABILIDADES
 
@@ -26,4 +28,21 @@ Cualquier persona tiene el derecho de aprender y debatir sobre estos temas.
 # ANONIMATO
 
 - [I2P](https://geti2p.net/en/) - Proyecto para la Internet Invisible
+
+# HERRAMIENTAS
+
+- [Metasploit](https://github.com/rapid7/metasploit-framework) - Projecto de seguridad sobre vulnerabilidades y penetration testing.
+- [Ghidra](https://ghidra-sre.org) - Ingenieria Reversa.
+- [Whireshark](https://www.wireshark.org) - Analiza paquetes de red.
+- [SqlMap](https://github.com/sqlmapproject/sqlmap) - Automatización de SQL injection.
+- [Nmap](https://nmap.org) - Escaner de puertos
+- [Aircrack-NG](https://www.aircrack-ng.org) - Programa de crackeo Wifi
+- [John The Ripper](https://www.openwall.com/john/) - Password cracker
+
+# ESTUDIAR
+
+- [OverTheWire](https://overthewire.org/wargames/) - Wargames hacking.
+- [Hack The Box](https://www.hackthebox.com) - Web para aprender pentesting en otros sistemas.
+- [Try Hack Me](https://tryhackme.com) - Web para aprender pentesting en entornos reales (parecia a Htb)
+
   
