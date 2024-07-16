@@ -44,5 +44,5 @@ Cualquier persona tiene el derecho de aprender y debatir sobre estos temas.
 - [OverTheWire](https://overthewire.org/wargames/) - Wargames hacking.
 - [Hack The Box](https://www.hackthebox.com) - Web para aprender pentesting en otros sistemas.
 - [Try Hack Me](https://tryhackme.com) - Web para aprender pentesting en entornos reales (parecia a Htb)
-
+- [Wisc](https://pages.cs.wisc.edu/~ace/cs642-spring-2016.html)
   
