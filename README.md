@@ -17,6 +17,7 @@ Cualquier persona tiene el derecho de aprender y debatir sobre estos temas.
 - [ANONIMATO]()
 - [HERRAMIENTAS]()
 - [ESTUDIAR]()
+- [LIBROS]()
 - [TOR]()
 
 # CONTENIDO
@@ -68,6 +69,11 @@ Cualquier persona tiene el derecho de aprender y debatir sobre estos temas.
 - [HacksPlaining](https://hacksplaining.com/lessons) - Estudiar Vulnerabilidades.
 - [CTF](https://trailofbits.github.io/ctf/) - Buen lugar para estudiar sobre CTF.
 
+# LIBROS
+
+- [Gray Hat Hacking](https://www.amazon.com/Hacking-Ethical-Hackers-Handbook-Edition/dp/0071832386/)
+- [The Myths of Security](https://www.amazon.com/Myths-Security-Computer-Industry-Doesnt/dp/0596523025?)
+- [Hacking: The Next Generation](https://www.amazon.com/Hacking-Next-Generation-Animal-Guide/dp/0596154577)
 
 # TOR
 
