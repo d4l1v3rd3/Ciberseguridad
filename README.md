@@ -1,12 +1,23 @@
+#by d4l1
 
+<p align="center"><img src="https://github.com/user-attachments/assets/f16014df-5d0a-42e6-b59a-f7dae2f1af84"></p>
 
-# Ciberseguridad
+<h1 align="center">Ciberseguridad</h1>
 
 Información, código, herramientas, comandos, guías sobre el hacking &amp; pentesting.
 
 Este repositorio ha sido creado, para la investigación y aprendizaje para toda la comunidad del hacking & Pentesting.
 
 Cualquier persona tiene el derecho de aprender y debatir sobre estos temas.
+# ÍNDICE
+
+- [CONTENIDO]()
+- [UTILIDADES DE ANDROID]()
+- [BUR BOUNTY]()
+- [ANONIMATO]()
+- [HERRAMIENTAS]()
+- [ESTUDIAR]()
+- [TOR]()
 
 # CONTENIDO
 
@@ -54,5 +65,15 @@ Cualquier persona tiene el derecho de aprender y debatir sobre estos temas.
 - [Wisc](https://pages.cs.wisc.edu/~ace/cs642-spring-2016.html) - Academía para estudiar (Gratuita)
 - [PortSwigger](https://portswigger.net) - Academía para estudiar.
 - [HacksPlaining](https://hacksplaining.com/lessons) - Estudiar Vulnerabilidades.
+
+# TOR
+
+Tor es un proxy de red superpuesto, utiliza TCP (anónimo) implementado como una red mixta criptográfica. 
+Se utiliza para proteger la privacidad de las comunicaciones de los usuarios en una variedad de entornos operativos. 
+
+## ANDROID
+
+- [ORBOT](https://guardianproject.info/apps/org.torproject.android/) - Orbot es una aplicación proxy gratuita que permite a otras aplicaciones utilizar Internet de forma más segura.
+- 
 
   
