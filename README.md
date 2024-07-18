@@ -34,7 +34,7 @@ Cualquier persona tiene el derecho de aprender y debatir sobre estos temas.
 # ANONIMATO
 
 - [I2P](https://geti2p.net/en/) - Proyecto para la Internet Invisible
-- [Qué Sabe Nuestro Navegador De nosotros](https://webkay.robinlinus.com)
+- [Qué Sabe Nuestro Navegador De nosotros](https://webkay.robinlinus.com) - Toda la información que sabe nuestro navegador de nosotros.
 
 # HERRAMIENTAS
 
