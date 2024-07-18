@@ -1,3 +1,5 @@
+
+
 # Ciberseguridad
 
 Información, código, herramientas, comandos, guías sobre el hacking &amp; pentesting.
@@ -15,6 +17,10 @@ Cualquier persona tiene el derecho de aprender y debatir sobre estos temas.
 - [Exploit-DataBase](https://www.exploit-db.com) - La famosa base de datos donde se publican todos los exploits.
 - [SecTools](https://sectools.org) - 125 herramientas en red sobre seguridad.
 
+# UTILIDADES DE ANDROID
+
+- [FING](https://www.fing.com/fing-app/) - Aplicación de móvil para escanear redes.
+
 # VULNERABILIDADES
 
 - [Pandora 742](https://www.sonarsource.com/blog/pandora-fms-742-critical-code-vulnerabilities-explained/) - Pandora FMS 742: Critical Code Vulnerabilities Explained
@@ -28,6 +34,7 @@ Cualquier persona tiene el derecho de aprender y debatir sobre estos temas.
 # ANONIMATO
 
 - [I2P](https://geti2p.net/en/) - Proyecto para la Internet Invisible
+- [Qué Sabe Nuestro Navegador De nosotros](https://webkay.robinlinus.com)
 
 # HERRAMIENTAS
 
@@ -47,4 +54,5 @@ Cualquier persona tiene el derecho de aprender y debatir sobre estos temas.
 - [Wisc](https://pages.cs.wisc.edu/~ace/cs642-spring-2016.html) - Academía para estudiar (Gratuita)
 - [PortSwigger](https://portswigger.net) - Academía para estudiar.
 - [HacksPlaining](https://hacksplaining.com/lessons) - Estudiar Vulnerabilidades.
+
   
