@@ -46,6 +46,7 @@ Cualquier persona tiene el derecho de aprender y debatir sobre estos temas.
 
 - [I2P](https://geti2p.net/en/) - Proyecto para la Internet Invisible
 - [Qué Sabe Nuestro Navegador De nosotros](https://webkay.robinlinus.com) - Toda la información que sabe nuestro navegador de nosotros.
+- [TAILS](https://tails.net/install/index.es.html) - Sistema operativo seguro
 
 # HERRAMIENTAS
 
@@ -65,6 +66,8 @@ Cualquier persona tiene el derecho de aprender y debatir sobre estos temas.
 - [Wisc](https://pages.cs.wisc.edu/~ace/cs642-spring-2016.html) - Academía para estudiar (Gratuita)
 - [PortSwigger](https://portswigger.net) - Academía para estudiar.
 - [HacksPlaining](https://hacksplaining.com/lessons) - Estudiar Vulnerabilidades.
+- [CTF](https://trailofbits.github.io/ctf/) - Buen lugar para estudiar sobre CTF.
+
 
 # TOR
 
@@ -72,6 +75,12 @@ Tor es un proxy de red superpuesto, utiliza TCP (anónimo) implementado como una
 Se utiliza para proteger la privacidad de las comunicaciones de los usuarios en una variedad de entornos operativos. 
 
 - [TODA LA INFORMACIÓN RELEVANTE](https://2019.www.torproject.org/getinvolved/volunteer.html.en) - Página oficial de tor
+
+### HERRAMIENTAS
+
+- [NIPE](https://github.com/htrgouvea/nipe) - Script que redirije todos tus paquetes a la red Tor.
+- [ONIONSCAN](https://onionscan.org) - Herramienta para investigar toda la Dark Web y buscar operaciones o vulnerabilidades.
+- [TOR](https://www.torproject.org) - Descarga de tor
 
 ### ANDROID
 
