@@ -1,6 +1,6 @@
 #by d4l1
 
-<p align="center"><img src="https://github.com/user-attachments/assets/f16014df-5d0a-42e6-b59a-f7dae2f1af84"></p>
+<p align="center"><img width="400px" height="300px" src="https://github.com/user-attachments/assets/f16014df-5d0a-42e6-b59a-f7dae2f1af84"></p>
 
 <h1 align="center">Ciberseguridad</h1>
 
