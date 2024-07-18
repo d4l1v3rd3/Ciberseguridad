@@ -71,9 +71,12 @@ Cualquier persona tiene el derecho de aprender y debatir sobre estos temas.
 Tor es un proxy de red superpuesto, utiliza TCP (anónimo) implementado como una red mixta criptográfica. 
 Se utiliza para proteger la privacidad de las comunicaciones de los usuarios en una variedad de entornos operativos. 
 
+- [TODA LA INFORMACIÓN RELEVANTE](https://2019.www.torproject.org/getinvolved/volunteer.html.en) - Página oficial de tor
+
 ## ANDROID
 
 - [ORBOT](https://guardianproject.info/apps/org.torproject.android/) - Orbot es una aplicación proxy gratuita que permite a otras aplicaciones utilizar Internet de forma más segura.
-- 
+- [ORFOX](https://guardianproject.info/apps/info.guardianproject.orfox/0) - Un navegador web centrado en la privacidad para usar con Orbot, basado en Tor Browser.
+
 
   
