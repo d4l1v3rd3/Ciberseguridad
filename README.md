@@ -100,5 +100,6 @@ Se utiliza para proteger la privacidad de las comunicaciones de los usuarios en 
 - [ISECOM](https://www.isecom.org/OSSTMM.3.pdf) - Manual de como ser Penetration Tester. 
 - [OSWAP](https://owasp.org) - Fundación para saber sobre las mayores vulnerabilidades.
 - [GOOGLEHACKING](https://github.com/D4l1-web/Ciberseguridad/blob/main/Google_Hacking.md) - Comandos para google hacking
+- [SHODAN](https://www.shodan.io) - Buscador
 
   
