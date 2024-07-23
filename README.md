@@ -69,6 +69,7 @@ Cualquier persona tiene el derecho de aprender y debatir sobre estos temas.
 - [HacksPlaining](https://hacksplaining.com/lessons) - Estudiar Vulnerabilidades.
 - [CTF](https://trailofbits.github.io/ctf/) - Buen lugar para estudiar sobre CTF.
 - [Offsec](https://www.offsec.com) - Mantenedores de Kali Linux y con buenas certificaciones.
+  
 
 # LIBROS
 
@@ -98,5 +99,6 @@ Se utiliza para proteger la privacidad de las comunicaciones de los usuarios en 
 
 - [ISECOM](https://www.isecom.org/OSSTMM.3.pdf) - Manual de como ser Penetration Tester. 
 - [OSWAP](https://owasp.org) - Fundación para saber sobre las mayores vulnerabilidades.
+- [GOOGLEHACKING](https://github.com/D4l1-web/Ciberseguridad/blob/main/Google_Hacking.md) - Comandos para google hacking
 
   
