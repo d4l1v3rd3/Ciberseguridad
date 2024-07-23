@@ -68,6 +68,7 @@ Cualquier persona tiene el derecho de aprender y debatir sobre estos temas.
 - [PortSwigger](https://portswigger.net) - Academía para estudiar.
 - [HacksPlaining](https://hacksplaining.com/lessons) - Estudiar Vulnerabilidades.
 - [CTF](https://trailofbits.github.io/ctf/) - Buen lugar para estudiar sobre CTF.
+- [Offsec](https://www.offsec.com) - Mantenedores de Kali Linux y con buenas certificaciones.
 
 # LIBROS
 
