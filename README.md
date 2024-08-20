@@ -101,8 +101,7 @@ LIBROS | DESCRIPCIÓN
 
 UTILIDADES | DESCRIPCIÓN
 ---- | ----
-TOR | Tor es un proxy de red superpuesto, utiliza TCP (anónimo) implementado como una red mixta criptográfica. 
-Se utiliza para proteger la privacidad de las comunicaciones de los usuarios en una variedad de entornos operativos. 
+TOR | Tor es un proxy de red superpuesto, utiliza TCP (anónimo) implementado como una red mixta criptográfica. Se utiliza para proteger la privacidad de las comunicaciones de los usuarios en una variedad de entornos operativos. 
 [TODA LA INFORMACIÓN RELEVANTE](https://2019.www.torproject.org/getinvolved/volunteer.html.en) | Página oficial de tor
 
 ### HERRAMIENTAS
