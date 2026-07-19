@@ -70,6 +70,7 @@ HERRAMIENTA | DESCRIPCIÓN
 [Metasploit](https://github.com/rapid7/metasploit-framework) | Projecto de seguridad sobre vulnerabilidades y penetration testing.
 [Ghidra](https://ghidra-sre.org) | Ingenieria Reversa.
 [Whireshark](https://www.wireshark.org) | Analiza paquetes de red.
+[Dark-Moon](https://github.com/ASCIT31/Dark-Moon) | Pentester autonomo con IA (GPL-3.0), host MCP.
 [SqlMap](https://github.com/sqlmapproject/sqlmap) | Automatización de SQL injection.
 [Nmap](https://nmap.org) | Escaner de puertos
 [Aircrack-NG](https://www.aircrack-ng.org) | Programa de crackeo Wifi
